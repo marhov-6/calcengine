@@ -12,7 +12,7 @@ public class Main {
         else if (args.length == 3)
             performOperation(args);
          else
-            System.out.println("Invalid argument(s) or number of arguments");
+            System.out.println("Invalid argument(s) or number of argument(s)");
     }
 
     private static void performCalculations() {
